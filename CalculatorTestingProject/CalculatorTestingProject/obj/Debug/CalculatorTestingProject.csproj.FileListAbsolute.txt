@@ -1,0 +1,6 @@
+C:\Users\student\Documents\GitHub\Csharp\Day4\CalculatorTestingProject\CalculatorTestingProject\bin\Debug\CalculatorTestingProject.exe.config
+C:\Users\student\Documents\GitHub\Csharp\Day4\CalculatorTestingProject\CalculatorTestingProject\bin\Debug\CalculatorTestingProject.exe
+C:\Users\student\Documents\GitHub\Csharp\Day4\CalculatorTestingProject\CalculatorTestingProject\bin\Debug\CalculatorTestingProject.pdb
+C:\Users\student\Documents\GitHub\Csharp\Day4\CalculatorTestingProject\CalculatorTestingProject\obj\Debug\CalculatorTestingProject.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\Csharp\Day4\CalculatorTestingProject\CalculatorTestingProject\obj\Debug\CalculatorTestingProject.exe
+C:\Users\student\Documents\GitHub\Csharp\Day4\CalculatorTestingProject\CalculatorTestingProject\obj\Debug\CalculatorTestingProject.pdb

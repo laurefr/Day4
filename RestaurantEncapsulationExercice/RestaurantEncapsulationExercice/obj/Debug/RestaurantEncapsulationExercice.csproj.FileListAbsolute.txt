@@ -1,0 +1,2 @@
+C:\Users\student\Documents\GitHub\Csharp\Day4\RestaurantEncapsulationExercice\RestaurantEncapsulationExercice\bin\Debug\RestaurantEncapsulationExercice.exe.config
+C:\Users\student\Documents\GitHub\Csharp\Day4\RestaurantEncapsulationExercice\RestaurantEncapsulationExercice\obj\Debug\RestaurantEncapsulationExercice.csprojResolveAssemblyReference.cache
